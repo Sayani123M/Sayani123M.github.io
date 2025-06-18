@@ -1,0 +1,7 @@
+title: "My Probability & Trading Blog"
+description: "Dissecting classic puzzles and trading strategies"
+author: "Sayani Mondal"
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
