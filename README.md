@@ -1,2 +1,5 @@
-# Sayani123M.github.io
+---
+layout: home
+---
+
 Quantitative blog
