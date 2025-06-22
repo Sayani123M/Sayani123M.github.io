@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "My Probability & Trading Blog"
 description: "Dissecting classic puzzles and trading strategies"
 ---
