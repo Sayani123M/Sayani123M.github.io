@@ -2,7 +2,7 @@
 layout: post
 title: "Momentum Strategy in Crypto Markets"
 date: 2025-06-19
-categories: [trading, momentum, strategy]
+tags: [trading]
 ---
 
 <div style="text-align: center;">
