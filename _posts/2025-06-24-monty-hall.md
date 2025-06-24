@@ -3,6 +3,7 @@ layout: post
 title: "Monty Hall Problem"
 date: 2025-06-24
 ---
+# Monty Hall Problem
 Imagine you're on a game show. There are **three doors**:
 
 - Behind one is a **brand-new car** 🚗  
