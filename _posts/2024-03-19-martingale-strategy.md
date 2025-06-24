@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Martingale Strategy"
-date: 2025-06-19
+date: 2024-03-19
 tags: [trading]
 ---
 The martingale strategy is a classic betting system based on doubling down after every loss.
