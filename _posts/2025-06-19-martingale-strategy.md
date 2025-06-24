@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Martingale Strategy"
 date: 2025-06-19
 ---
