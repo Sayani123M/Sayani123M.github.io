@@ -4,9 +4,7 @@ title: "Probability & Trading Blog"
 description: "Dissecting classic puzzles and trading strategies"
 ---
 
-<h1 style="text-align:center;">Welcome to my Quantitative Blog 🧠📊</h1>
-<p style="text-align:center;">Explore insights into probability puzzles and trading strategies.</p>
-
+## Latest Posts
 <div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0;">
   <a href="/tag/probability" style="text-decoration: none;">
     <div style="background-color: #f0f0f0; padding: 20px 40px; border-radius: 10px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.2);">
@@ -23,8 +21,6 @@ description: "Dissecting classic puzzles and trading strategies"
 </div>
 
 ---
-
-## Latest Posts
 
 {% if site.posts and site.posts.size > 0 %}
 <ul>
