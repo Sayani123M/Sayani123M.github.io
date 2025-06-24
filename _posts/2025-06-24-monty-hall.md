@@ -2,6 +2,7 @@
 layout: post
 title: "Monty Hall Problem"
 date: 2025-06-24
+tags: [probability]
 ---
 <div style="text-align: center;">
   <h1>The Monty Hall Problem</h1>
