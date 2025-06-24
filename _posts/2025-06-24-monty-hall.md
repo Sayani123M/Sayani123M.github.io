@@ -3,7 +3,9 @@ layout: post
 title: "Monty Hall Problem"
 date: 2025-06-24
 ---
-# Monty Hall Problem
+<div style="text-align: center;">
+  <h1>The Monty Hall Problem</h1>
+</div>
 Imagine you're on a game show. There are **three doors**:
 
 - Behind one is a **brand-new car** 🚗  
