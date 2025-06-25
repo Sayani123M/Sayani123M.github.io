@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bearly Catching Five"
+title: "Bearly Catching Five[Jane Street]"
 date: 2024-12-03
 tags: [probability]
 ---
