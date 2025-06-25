@@ -5,8 +5,6 @@ date: 2024-12-03
 tags: [probability]
 ---
 
-## 🐟 What's the Chance the 5th Fish Is Caught?
-
 ## 🎲 Is the Coin Double-Headed?
 
 A group includes **98 unbiased (fair) coins**, **1 coin with heads on both sides**, and **1 coin with tails on both sides**.  
