@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conditional Probability"
+title: "Bearly Catching Five"
 date: 2024-12-03
 tags: [probability]
 ---
@@ -50,7 +50,7 @@ If the bear has already caught 3 fish in the first 4 attempts, it stops fishing 
 
 ### 🧮 Final Computation
 
-P(C) = (1/2 × 11/16) + (0 × 5/16) = 11/32
+P(C) = (1/2 × 11/16) + (0 × 5/16) = 11⁄32
 
 
 ---
